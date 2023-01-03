@@ -1,0 +1,30 @@
+{
+    "title": "ARGENTINA PROGRAMA",
+    "acercaDe": [
+      {
+        "title": "TITULO1",
+        "texto": "hola soy oli"
+      },
+      {
+        "title": "TITULO2",
+        "texto": "hola soy olii"
+      },
+      {
+        "title": "TITULO3",
+        "texto": "hola soy oliii"
+      }
+    ],
+    "educacion":[
+    {
+        "titulo": "Educación Universitaria",
+        "texto": "Universidad"
+    },
+    {
+        "titulo": "Educación Secundaria",
+        "texto": "secundaria"
+    },{
+        "titulo": "Idioma",
+        "texto": "idioma"
+    }
+    ]
+  }

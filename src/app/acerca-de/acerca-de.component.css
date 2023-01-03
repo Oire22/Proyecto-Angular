@@ -1,0 +1,13 @@
+#AcercaDe{
+    display: flex;
+    flex-direction: column;
+    margin:15px;
+    padding: 5px;
+    padding-top: 40px;
+    
+}
+
+
+#AcercaDe img{
+    margin: 0;
+}

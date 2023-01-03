@@ -1,0 +1,11 @@
+#Educacion {
+    margin: 15px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#accordion1{
+    padding: 5px;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
